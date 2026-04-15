@@ -1,3 +1,8 @@
+# Profile
+
+## Personnalité
+#### **Profil MBTI:** INTJ
+
 ## Compétences
 
 ## Forces
