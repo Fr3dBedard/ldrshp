@@ -2,6 +2,8 @@
 
 ## Forces
 
+## Faiblesses
+
 ## Formation
 
 ## Reconnaissances
