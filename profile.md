@@ -6,7 +6,10 @@
 
 ## Formation
 
-## Reconnaissances
+## Reconnaissances / présentations
+#### Présentation intro et hôte du chapitre Quebec du Cloud Native Computing Foundation (2025.05)
+Présentation sur la TI chez Beneva: Ingénierie de plateforme, portail développeur, ... Environs 60-70 personnes.
+
 #### Lauréat Octas - Portail développeur DevConnecte : Au cœur de l’expérience développeur @ Beneva (2025.05)
 **Catégorie: ** Capital humain – Grande entreprise, société d’État et paragouvernemental
 
