@@ -4,7 +4,9 @@
 | Info | Valeur | 
 | :--- | :--- |
 | Nom | Fred Bedard |
-
+| Date de naissance | 1980.05.15 |
+| Compagnie | Beneva |
+| Poste actuel | Directeur principal ingénierie logicielle et soutien au développement |
 
 
 ## Personnalité
