@@ -1,5 +1,12 @@
 # Profile
 
+### Informations personnelles
+| Info | Valeur | 
+| :--- | :--- |
+| Nom | Fred Bedard |
+
+
+
 ## Personnalité
 #### **Profil MBTI:** INTJ
 
