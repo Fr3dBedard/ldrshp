@@ -6,8 +6,14 @@
 ## Compétences
 
 ## Forces
+* Vision: Je suis reconnu par mes pairs comme était une source de vision, particulièrement dans le domaine des technologies. Mes prédictions sont souvent justes dans la plupart des domaines et j'ai une bonne capacité à prédire le futur en corellant l'information qui m'est accessible.
+* Enthousiaste technologique: Je suis reconnu comme étant à la fine pointe de la technologie, tant dans le milieu professionnel que personnel. Les gens m'approchent en supposant que je connais déjà les nouvelles tendances ou que j'ai déjà les nouvelles technologies.
+* Pensée structurée: Je suis par exemple souvent impliqué dans les travaux de mise en place de modèle de travail, de structure d'équipes, plateforme, ...
+* Vulgarisation des concepts technologiques complexes
+* Présentateur/Orateur: Je suis reconnu par mes collègues comme un excellent présentateur et la qualité de mes présentations est fréquemment soulignée.
 
 ## Faiblesses
+* Tâches répétitives et opérationnelles: J'ai peu d'intérêt aux tâches répétitives ce qui a pour effet d'être une faiblesse.
 
 ## Formation
 
