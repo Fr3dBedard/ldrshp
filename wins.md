@@ -1,6 +1,12 @@
 # Wins
 Registre des bon coups, évènements et reconnaissances à souligner.
 
+## Bon coups et reconnaissance
+2026.05: Contribution au dissier secret Artemis d'arrêt des travaux progiciels de l'assurance collective afin de considérer un projet de développement maison accéléré par l'AI. Mention par la VP du collectif, Julie Pelchat de mon apport au dossier comme visionnaire technologique, geek AI, et contributeur important à l'initiative.
+2026.05: Organisation d'un Workshop AWS sur les technologies Transform et Kiro (40-50 personnes)
+2025.11: À la demande de Suzie Dion, VP, contribution à la proposition de structuration du travail pour le chantier Orion (Grand projet de la planif stratégique de Beneva)
+2022.01: Au coeur de l'évolution de la structure d'opération des équipes d'infrastructure et support logiciel vers l'ingénierie de plateforme
+
 ## Rendement
 <table>
   <thead>
