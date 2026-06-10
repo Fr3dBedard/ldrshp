@@ -27,6 +27,9 @@
 ## Formation
 
 ## Reconnaissances / présentations
+#### Présentation à l'évènement Q2N sur la qualité en TI (2026.06)
+Pannel sur la qualité dans la livraison logicielle et la TI en général, retour sur l'expérience de structuration de la qualité chez Beneva.
+
 #### Présentation intro et hôte du chapitre Quebec du Cloud Native Computing Foundation (2025.05)
 Présentation sur la TI chez Beneva: Ingénierie de plateforme, portail développeur, ... Environs 60-70 personnes.
 
@@ -41,6 +44,8 @@ Présentation sur l'infonuagique dans le contexte de l'ingénierie de plateforme
 
 
 ## Participation évènements / Congrès
+* 2026
+  * Gartner Application Innovation & Business Solutions Summit
 * 2025
   * AWS Reinvent
   * Gartner Application Innovation & Business Solutions Summit
