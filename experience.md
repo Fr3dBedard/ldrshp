@@ -11,7 +11,7 @@ Possédant une excellente connaissance de la technologie, le cloud et les activi
 ### Beneva (2020 - Maintenant)
 
 #### Directeur principal ingénierie logicielle et soutien au développement (2021 - Maintenant)
-Responsabilités : 
+Responsabilités : Équipes de gouvernance logicielle (ADRs, architectes logiciels sectoriels accompagnant les secteurs, table de gouvernance logicielle), Intégration applicative (Plateformes d'intégrations, ESB, intégration AWS), Expérience développeur (Portail développeur, succès plateforme), Ingénierie des bases de données, Équipe de gouvernance qualité (Table de gouvernance qualité, câdre qualité Beneva, outils d'automatisation des tests, outils de mesure de la performance su SDLC et de mesure de la qualité/respect des exigences non fonctionnelles), Soutien à la livraison (Dépôts de source, CI/CD, Pipelines, dépôts d'artefacts). Responsable du programme d'industrialisation (Année 1: Structurer le logiciel, Année 2: La qualité, Année 3: AI dans le SDLC). Businesds Owner de la plateforme TI Beneva (Regroupement des équipes infra et support dev en ingénierie de plateforme).
 
 #### Directeur principal ingénierie logicielle et fondation numérique (2020 - 2021)
 Responsabilités : 
