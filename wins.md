@@ -14,7 +14,7 @@ Registre des bon coups, évènements et reconnaissances à souligner.
     <tr><td>2023</td><td>Répond aux attentes</td><td></td></tr>
     <tr><td>2022</td><td></td><td></td></tr>
     <tr><td>2021</td><td></td><td></td></tr>
-    <tr><td>2020</td><td></td><td></td></tr>
+    <tr><td>2020</td><td>Rendement annuel supérieur</td><td></td></tr>
     <tr><td>2019</td><td>Rendement annuel supérieur</td><td>
 Excellente année 2019, s'améliore constamment, acquière davantage en largeur que les autres années!
 Jack-of-all-trade, capable de vision et d'exécution, gestion impeccable du talent, toujours proactif, expert dans son domaine à l'affut constant de nouveautés utiles,
